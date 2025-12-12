@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Groq keys / environment
+.env
+
+# HITL generated files
+human_feedback/pending/
+human_feedback/approved/
+human_feedback/rejected/
